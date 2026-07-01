@@ -1,3 +1,3 @@
-# Pizza ordering/game project in Hebrew | פרויקט פיצה
-
-MIT © 2026 [David Patlas](https://github.com/DavidPatlas-AI)
+# פרויקט פיצה — Pizza Game
+משחק/סימולטור הזמנת פיצה בעברית — כמה גרסאות (`pizza`, `pizza_deluxe`, `pizza_ultimate`).
+**הרצה:** פתח `index.html` בדפדפן.
